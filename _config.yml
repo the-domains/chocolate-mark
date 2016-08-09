@@ -1,0 +1,28 @@
+name: Chocolate Mark
+favicon: null
+layout_spectrum: 0.5468909000046551
+typography_spectrum: 0.48650846746750176
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6728336061351001
+  lightness: 0.09728659316897392
+  saturation: 0.049404178047552705
+  rhythmicContrast: 0.577163414331153
+purpose: []

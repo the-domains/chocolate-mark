@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Chocolate Mark]]></title>
+        <description><![CDATA[Chocolate Mark]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 09 Aug 2016 09:52:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4aadba1-90ef-44b8-993b-8b99345095f6.jpg">]]></description>
+            <link>undefinedlife-rich-as-chocolate/index.html</link>
+            <guid isPermaLink="false">a9c4935e-c963-4afb-8cca-590377827491</guid>
+            <pubDate>Tue, 09 Aug 2016 09:52:31 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
